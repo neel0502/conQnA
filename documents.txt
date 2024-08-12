@@ -1,0 +1,3777 @@
+Document 1:
+Appalachian Technology Knowledge Base - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (3)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Jira links
+Appalachian Technology Knowledge Base
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jul 12, 2024
+{"elements":{"metas":{"hidden":true},"comments":{"hidden":true},"profile":{"hidden":true},"admin":{"hidden":true},"title":{"hidden":true},"people":{"hidden":true},"tools":{"hidden":true},"labels":{"hidden":true},"help":{"hidden":true},"search":{"hidden":true},"breadcrumb":{"hidden":true},"spaces":{"hidden":true},"notifications":{"hidden":true},"likes":{"hidden":true}},"cssSelector":"","cssSelectorLocked":false}
+Welcome to the Information Technology Knowledge Base for Appalachian State University!
+Search
+Type your question in the box Above. If you can't find an answer to your question
+Submit a Service Request
+Work/Teach From Home
+Page:
+Work from Home (Telework) Resources
+Page:
+Take Your Class Online
+Page:
+Remotely Connect to a Campus Computer
+Page:
+How to connect to Online Mac Computer Labs
+Page:
+Google Chat and Spaces
+Page:
+Cannot log into Computer after password change.
+Page:
+AnyConnect VPN Articles
+Page:
+Adobe Creative Cloud on a personally-owned computer
+Page:
+Accessing your VoIP phone off-campus with Cisco Jabber
+Page:
+Access Online Windows Computer Labs from a Web Browser
+Most Common Questions
+Page:
+Email Tagging
+Page:
+FAQ articles
+Page:
+FileShare
+Page:
+Google FAQs & Resources
+Page:
+How to Delegate (share) the Inbox of an App State Email Account.
+Page:
+How to Install Office 365
+Page:
+How to Map a uStor Folder on macOS
+Page:
+How to Set Default Apps in Windows 10
+Page:
+How to Update my App State Password
+Page:
+I can't see my grades in AsULearn.
+Page:
+I cannot log into University Computers
+Page:
+Navigating AsULearn
+Page:
+New Phone-How to Reactivate Duo Mobile
+Page:
+Print Zone FAQs
+Page:
+Register a Computer on App State's Network with an Ethernet (Wired) Connection
+Page:
+Register a Gaming System and/or Smart TV on App State's Network
+Page:
+Retirees - Transferring Personal Gmail Data
+Page:
+Smart Classroom Tech FAQ
+Page:
+VoIP Phone FAQs
+Page:
+Wireless Connection Guide for ASU and ASU-Secure
+Page:
+Wireless FAQ
+Page:
+YoMart FAQs
+Common Topics
+Page:
+AsULearn Articles
+Page:
+Google Apps (Gsuite)
+Page:
+Internet/Network
+Page:
+Print and Copy
+Page:
+University Accounts
+Page:
+YoMart
+Updates/Changes
+Page:
+How to Update Software on macOS
+Page:
+How to Upgrade macOS
+Page:
+macOS Upgrade Notifications
+Important Links
+Services and Software Catalog
+Support Website
+Submit a Service Request
+No labels
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 96, "requestCorrelationId": "bb306707c6e5c5a1"}
+
+Document 2:
+Appalachian Technology Knowledge Base - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (3)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Jira links
+Appalachian Technology Knowledge Base
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jul 12, 2024
+{"elements":{"metas":{"hidden":true},"comments":{"hidden":true},"profile":{"hidden":true},"admin":{"hidden":true},"title":{"hidden":true},"people":{"hidden":true},"tools":{"hidden":true},"labels":{"hidden":true},"help":{"hidden":true},"search":{"hidden":true},"breadcrumb":{"hidden":true},"spaces":{"hidden":true},"notifications":{"hidden":true},"likes":{"hidden":true}},"cssSelector":"","cssSelectorLocked":false}
+Welcome to the Information Technology Knowledge Base for Appalachian State University!
+Search
+Type your question in the box Above. If you can't find an answer to your question
+Submit a Service Request
+Work/Teach From Home
+Page:
+Work from Home (Telework) Resources
+Page:
+Take Your Class Online
+Page:
+Remotely Connect to a Campus Computer
+Page:
+How to connect to Online Mac Computer Labs
+Page:
+Google Chat and Spaces
+Page:
+Cannot log into Computer after password change.
+Page:
+AnyConnect VPN Articles
+Page:
+Adobe Creative Cloud on a personally-owned computer
+Page:
+Accessing your VoIP phone off-campus with Cisco Jabber
+Page:
+Access Online Windows Computer Labs from a Web Browser
+Most Common Questions
+Page:
+Email Tagging
+Page:
+FAQ articles
+Page:
+FileShare
+Page:
+Google FAQs & Resources
+Page:
+How to Delegate (share) the Inbox of an App State Email Account.
+Page:
+How to Install Office 365
+Page:
+How to Map a uStor Folder on macOS
+Page:
+How to Set Default Apps in Windows 10
+Page:
+How to Update my App State Password
+Page:
+I can't see my grades in AsULearn.
+Page:
+I cannot log into University Computers
+Page:
+Navigating AsULearn
+Page:
+New Phone-How to Reactivate Duo Mobile
+Page:
+Print Zone FAQs
+Page:
+Register a Computer on App State's Network with an Ethernet (Wired) Connection
+Page:
+Register a Gaming System and/or Smart TV on App State's Network
+Page:
+Retirees - Transferring Personal Gmail Data
+Page:
+Smart Classroom Tech FAQ
+Page:
+VoIP Phone FAQs
+Page:
+Wireless Connection Guide for ASU and ASU-Secure
+Page:
+Wireless FAQ
+Page:
+YoMart FAQs
+Common Topics
+Page:
+AsULearn Articles
+Page:
+Google Apps (Gsuite)
+Page:
+Internet/Network
+Page:
+Print and Copy
+Page:
+University Accounts
+Page:
+YoMart
+Updates/Changes
+Page:
+How to Update Software on macOS
+Page:
+How to Upgrade macOS
+Page:
+macOS Upgrade Notifications
+Important Links
+Services and Software Catalog
+Support Website
+Submit a Service Request
+No labels
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 118, "requestCorrelationId": "cbb4e5d259eb24d6"}
+
+Document 3:
+Appalachian Technology Knowledge Base - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (3)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Jira links
+Appalachian Technology Knowledge Base
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jul 12, 2024
+{"elements":{"metas":{"hidden":true},"comments":{"hidden":true},"profile":{"hidden":true},"admin":{"hidden":true},"title":{"hidden":true},"people":{"hidden":true},"tools":{"hidden":true},"labels":{"hidden":true},"help":{"hidden":true},"search":{"hidden":true},"breadcrumb":{"hidden":true},"spaces":{"hidden":true},"notifications":{"hidden":true},"likes":{"hidden":true}},"cssSelector":"","cssSelectorLocked":false}
+Welcome to the Information Technology Knowledge Base for Appalachian State University!
+Search
+Type your question in the box Above. If you can't find an answer to your question
+Submit a Service Request
+Work/Teach From Home
+Page:
+Work from Home (Telework) Resources
+Page:
+Take Your Class Online
+Page:
+Remotely Connect to a Campus Computer
+Page:
+How to connect to Online Mac Computer Labs
+Page:
+Google Chat and Spaces
+Page:
+Cannot log into Computer after password change.
+Page:
+AnyConnect VPN Articles
+Page:
+Adobe Creative Cloud on a personally-owned computer
+Page:
+Accessing your VoIP phone off-campus with Cisco Jabber
+Page:
+Access Online Windows Computer Labs from a Web Browser
+Most Common Questions
+Page:
+Email Tagging
+Page:
+FAQ articles
+Page:
+FileShare
+Page:
+Google FAQs & Resources
+Page:
+How to Delegate (share) the Inbox of an App State Email Account.
+Page:
+How to Install Office 365
+Page:
+How to Map a uStor Folder on macOS
+Page:
+How to Set Default Apps in Windows 10
+Page:
+How to Update my App State Password
+Page:
+I can't see my grades in AsULearn.
+Page:
+I cannot log into University Computers
+Page:
+Navigating AsULearn
+Page:
+New Phone-How to Reactivate Duo Mobile
+Page:
+Print Zone FAQs
+Page:
+Register a Computer on App State's Network with an Ethernet (Wired) Connection
+Page:
+Register a Gaming System and/or Smart TV on App State's Network
+Page:
+Retirees - Transferring Personal Gmail Data
+Page:
+Smart Classroom Tech FAQ
+Page:
+VoIP Phone FAQs
+Page:
+Wireless Connection Guide for ASU and ASU-Secure
+Page:
+Wireless FAQ
+Page:
+YoMart FAQs
+Common Topics
+Page:
+AsULearn Articles
+Page:
+Google Apps (Gsuite)
+Page:
+Internet/Network
+Page:
+Print and Copy
+Page:
+University Accounts
+Page:
+YoMart
+Updates/Changes
+Page:
+How to Update Software on macOS
+Page:
+How to Upgrade macOS
+Page:
+macOS Upgrade Notifications
+Important Links
+Services and Software Catalog
+Support Website
+Submit a Service Request
+No labels
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 107, "requestCorrelationId": "27ab4f78d82ad2de"}
+
+Document 4:
+Knowledge Base Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Jira links
+Knowledge Base Articles
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+The Appalachian Technology Knowledge Base (ATKB) is a platform for easily creating, displaying, sharing, and managing web-based knowledge documents. It is designed to provide users within Appalachian State University with a central location for storing and maintaining knowledge.
+Page:
+Accessibility
+Page:
+Adobe Creative Cloud Articles
+Page:
+Android
+Page:
+Apple
+Page:
+AsULearn Articles
+Page:
+Atlassian
+Page:
+Banner Self-Service Articles
+Page:
+Confluence Articles
+Page:
+Docuware Articles
+Page:
+Domain Protection
+Page:
+Duo - 2 Factor Authentication
+Page:
+FAQ articles
+Page:
+Google Apps (Gsuite)
+Page:
+Google Docs Articles
+Page:
+Internet/Network
+Page:
+iOS Articles
+Page:
+Kaltura
+Page:
+Library
+Page:
+LinkedIn Learning Articles
+Page:
+Mac Articles
+Page:
+Microsoft
+Page:
+Other
+Page:
+PaperCut Print Articles
+Page:
+Print and Copy
+Page:
+REDCap Articles
+Page:
+SAS Software
+Page:
+Security
+Page:
+Student PaperCut Print Articles
+Page:
+Tech Support
+Page:
+uDesk Virtual Desktop Articles
+Page:
+University Accounts
+Page:
+VoIP Phones
+Page:
+VPN and Remote Connections to Campus Network
+Page:
+Watermark Faculty Success app
+Page:
+Windows
+Page:
+Work/Teach/Learn From Home
+Page:
+Workshop Scheduler
+Page:
+YoMart
+Page:
+Zoom
+Search Knowledge Base
+Submit a Service Request
+kb
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 73, "requestCorrelationId": "ff0713c5d1c8203e"}
+
+Document 5:
+Accessibility - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Accessibility
+Created by
+Michelle Melton
+, last modified by
+Elle Smith
+on
+Jul 09, 2024
+Learn more about how to make online content accessible - for your websites, online courses, and more. For more information, visit the
+Accessibility website
+.
+Online Tools
+WebAIM Web Accessibility Evaluation Tool (WAVE)
+Accessible Name & Description Inspector (ANDI)
+Accessibility Developer Tools
+aXe Automated Accessibility Tests
+ChromeVox
+JAWS
+NVDA
+VoiceOver
+Related Articles
+Page:
+Accessibility in AsULearn
+Page:
+Adding the Accessibility+ Review Block to Your Course
+Page:
+Analyzing Your AsULearn Course for Accessibility Issues
+Page:
+Brickfield Accessibility+ Toolkit Fix Link Text
+Page:
+Brickfield+ Accessibility Toolkit
+Page:
+Brickfield+ Tools to Find and Fix Accessibility Issues
+Page:
+Creating Accessible Forms
+Page:
+Creating Accessible Links
+Page:
+Creating Accessible Page Structure with Titles, Headings, and Lists
+Page:
+Creating Accessible Tables
+Page:
+Making Audio and Video Media Accessible
+Page:
+Making Files Accessible
+Page:
+Making Images Accessible
+Page:
+Making Timed Content Accessible
+Page:
+Reviewing Accessibility Issues in Brickfield+ Reports
+Page:
+Using Color Accessibly
+Page:
+Using Digital Signage Accessibly
+Page:
+Using Web Applications Accessibly
+Search Knowledge Base
+Submit a Service Request
+accessibility
+kb-titlepage
+accessibility-tp
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 84, "requestCorrelationId": "fc39912fe4b0425a"}
+
+Document 6:
+Adobe Creative Cloud Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Adobe Creative Cloud Articles
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jul 02, 2024
+Adobe Creative Cloud is a software suite with a series of applications for graphic design, video editing, and web development.
+Faculty and Staff
+Faculty who teach with Adobe Creative Cloud as part of the curriculum are automatically licensed to use the software.
+On a university computer, open Creative Cloud and sign in with your App State credentials using Shibboleth.
+You may sign into a
+maximum of two computers at a time
+with your Adobe Enterprise ID.
+Faculty and Staff may
+request a license via this form
+to
+install Creative Cloud on their personal computer
+.
+Visit
+Creative Cloud for Enterprise product listing
+for a full list of programs included in our Creative Cloud license.
+Students
+Adobe Creative Cloud is automatically available to any student who is
+enrolled in a class that requires the software
+as part of the curriculum.
+If it is not part of the curriculum, students can
+request a license via this form
+.
+Instructions on downloading and signing in to Creative Cloud
+Resources
+Visit LinkedIn Learning for videos and guides on how to use Adobe Creative Cloud products:
+Photoshop 2024 Essential Training
+InDesign 2024 Essential Training
+Illustrator 2024 Essential Training
+Premiere Pro Essential Training (2022–2024)
+Acrobat Pro Essential Training
+Page:
+Adobe Creative Cloud on a personally-owned computer
+Page:
+Creating Fillable PDFs
+Page:
+How to login to Adobe Creative Cloud
+Page:
+How to Resize an Image
+Page:
+Installing the Adobe Creative Cloud Suite
+To learn more about how to use the Adobe Apps, visit Adobe Support at
+helpx.adobe.com/support
+.
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+adobe
+adobecreativecloud
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 65, "requestCorrelationId": "0d2fdfaf20b7d0e6"}
+
+Document 7:
+Android - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Android
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Page:
+How to Configure ASU Wireless on Android devices
+Page:
+Setting up Gmail & Calendar on Android
+Visit or call the
+Technology Support Center
+for assistance with your Android Devices.
+Search Knowledge Base
+Submit a Service Request
+kb-titlepage
+kb
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 59, "requestCorrelationId": "2ae2058a063fccde"}
+
+Document 8:
+Apple - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Apple
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Page:
+Adding Certificates and Keys for Apple Development Account
+Page:
+Apple Development Program for Academic Use: Faculty Guide
+Page:
+Apple Development Program for Academic Use: Student Guide
+Page:
+ARM Architecture - macOS Update Notification Procedure
+Page:
+Downloading Google Apps on iOS
+Page:
+Fix ASU Wifi after Password Change on macOS
+Page:
+How Jamf Connect Syncs Your Mac Password After a Password Change
+Page:
+How to Configure ASU Wireless on iOS Devices.
+Page:
+How to Configure ASU Wireless on macOS
+Page:
+How to find System Information on macOS
+Page:
+How to Login to Jamf Connect
+Page:
+How to Map a uStor Folder on macOS
+Page:
+How to Purchase Apps in Apple School Manager
+Page:
+How to Update 3rd-Party Software on macOS
+Page:
+How to Update Software on macOS
+Page:
+How to Upgrade macOS
+Page:
+Mac Zero-Touch Setup Guide
+Page:
+macOS Upgrade Notifications
+Page:
+Nudge Notification for macOS
+Page:
+Print Duplex/Double Sided on a Mac
+Page:
+Requesting App Licenses for Managed Apple Devices
+Page:
+Reset the Keychain using Self Service on macOS
+Page:
+Save a File from Microsoft Word to a Google Shared Drive
+Page:
+Saving a Document as a PDF on Mac
+Page:
+Setting up Google Apps in Apple Mail, Contacts & Calendars on Mac OS 10.11
+Page:
+Testing Apps In the Apple Development Account for Academic Use
+Page:
+Types of Updates on macOS
+Page:
+Updating AppStore Applications in Self Service on Mac
+Page:
+Upgrade iOS on your Mobile Device
+Page:
+Using Apple Configurator to Update Multiple iPads at Once
+Page:
+Using Self Service on a Mac
+Page:
+Using Self Service on an iOS Device
+Page:
+VPN with AnyConnect on iOS
+Page:
+What is FileVault
+Page:
+What is Jamf Connect
+Page:
+Windows and macOS System Updates and Patches
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+apple
+mac
+ios
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 66, "requestCorrelationId": "4a895767334fdb85"}
+
+Document 9:
+AsULearn Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+AsULearn Articles
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+AsULearn (powered by Moodle) is a course management system that allows classroom interactions to extend onto the web. AsULearn lets faculty post course information, hold class discussions, create and accept assignments, and conduct exams online.
+Page:
+AsULearn Faculty Support
+Page:
+AsULearn Student Support
+For more information, including resources for support, please visit the
+AsULearn Service Catalog page
+.
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+common-topic
+asulearn-tp
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 56, "requestCorrelationId": "1d3baf546557f271"}
+
+Document 10:
+Atlassian - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Atlassian
+Created by
+Ellen Burnette
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Digital collaboration tools to stay on track as you plan, develop, and deliver products.
+Related Articles
+Page:
+Atlassian Access - Change Email Address
+Page:
+Atlassian Access - Delete Account
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+atlassian
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 58, "requestCorrelationId": "d097b4e8ae205f60"}
+
+Document 11:
+Banner Self-Service Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Banner Self-Service Articles
+Created by
+Ellen Burnette
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Banner 9 is an upgrade of Banner 8, our
+Self-Service
+platform for campus hosted by Ellucian.
+Self-Service
+includes the following modules:
+Employee Self-Service
+Finance Self-Service
+Student Self-Service
+Faculty & Advisor Self-Service
+Watch
+For more about this platform and the most recent upgrade
+Related Articles
+Page:
+Faculty & Staff Self-Service Guide
+Page:
+Self-Service: Time & Leave Entry
+Page:
+Self-Service: Web Time Entry for Approvers
+Page:
+Student Self-Service Guide
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+self-service
+banner-9-self-service
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 68, "requestCorrelationId": "f7a54cb796977123"}
+
+Document 12:
+Confluence Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Confluence Articles
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Confluence is a content collaboration tool to share knowledge efficiently and integrates with Jira.
+Page:
+Confluence
+Page:
+Confluence Tutorial
+Page:
+Create a Page in Confluence
+Page:
+Create a Space in Confluence
+Page:
+Disable Autowatch in Confluence
+Page:
+Edit Permissions on a Confluence Page
+Page:
+How to create a knowledge base article for the Appalachian Technology Knowledge Base
+Page:
+How To Update Related Articles (Content by Label Macro)
+Page:
+Make a Confluence Space or Page(s) public
+Page:
+Use the Confluence Add-On Hide Elements
+Page:
+Use the Confluence Add-On Scaffolding Forms & Templates
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 57, "requestCorrelationId": "09bf2c9d2d38e558"}
+
+Document 13:
+Docuware Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Docuware Articles
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jul 08, 2024
+Docuware is App State’s enterprise electronic document management system.
+Page:
+Docuware
+Page:
+Docuware Re-Install Instructions
+Page:
+Docuware Scan Configurations
+Page:
+Instructions for Initial Login to Docuware
+Page:
+Resolving Connection Issues in Docuware
+Page:
+Staple (Batch) Documents in Docuware
+Page:
+Update Desktop App after Docuware 7.1 Upgrade
+Page:
+Video of How to Install Desktop Apps
+For more information, including resources for support, please visit the
+Docuware Service Catalog page.
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+docuware
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 58, "requestCorrelationId": "736cde42039f1a1d"}
+
+Document 14:
+Domain Protection - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Domain Protection
+Created by
+Eric Hartway
+, last modified by
+Shawn Griffin
+on
+Feb 10, 2023
+Achieving email authenticity is part of an ongoing effort to protect users from phishing and improve the reputation of email sent from App State.
+Campus email administrators have deployed email message authentication to provide campus units stronger control on preventing illegitimate use of @appstate email addresses.
+Benefits
+Reputation:
+Protects the App State brand by preventing unauthenticated parties from sending email from our domain.
+Visibility:
+Reports increase visibility into our email program by letting us know who is sending email from the App State domain.
+Security:
+Establishes a consistent policy for dealing with messages that fail authentication and helps keep the campus email ecosystem more secure and trustworthy.
+External Senders/Requests
+Third-party email service providers (e.g. Mailchimp, Qualtrics, etc)
+See our full list
+.
+We will continue to analyze reports of who is sending email on our behalf to correct any legitimate external email senders.
+If you have a service not on this list or you have a new account with a service on this list,
+submit an account assistance ticket at tech.appstate.edu
+, or contact our help desk at x6266.
+Related Articles
+Page:
+Email Tagging
+Page:
+Services Authorized to Send Email from an @appstate.edu Address
+kb
+kb-titlepage
+domain-protection
+email-tagging
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 58, "requestCorrelationId": "95bf9c564b929755"}
+
+Document 15:
+Duo - 2 Factor Authentication - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (1)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Duo - 2 Factor Authentication
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jul 08, 2024
+2FA
+stands for
+2-Factor Authentication
+, meaning a system requires two separate forms of identity verification for access, making it virtually impossible for anyone to compromise your account without having both pieces of the puzzle.
+2FA
+secures your account against threats such as compromises caused by malware and phishing attacks. Even malicious actors who obtain your password will not be able to access your account.
+2FA
+works by combining your two factors:
+What you know:
+In our case, this is your App State username and password combination.
+What you have:
+This is the 2nd factor. It will take one of two forms:
+the Duo mobile application on your smartphone,
+a handy hardware token (also called a key or fob)
+(
+You will set this piece up
+when you are ready to configure 2-Factor for your account
+).
+When both factors have been entered, you are granted access to the system.
+Access Your Duo Settings
+Page:
+DUO 2-Factor Authentication
+Page:
+Duo Enrollment
+Page:
+Duo Prompt display issue on an iPhone or iPad
+Page:
+Duo Two-Factor Authentication Enrollment for Faculty & Staff
+Page:
+Duo Two-Factor Authentication for Incoming Students
+Page:
+Duo Universal Prompt
+Page:
+Duo: Manage Devices After Enrollment
+Page:
+How to Activate Duo Push Notifications to your Smartphone
+Page:
+Logging into AnyConnect VPN with a Duo Token
+Page:
+New Phone-How to Reactivate Duo Mobile
+Page:
+What is Duo 2-Factor Authentication (2FA)
+Search Knowledge Base
+Submit a Service Request
+kb-titlepage
+kb
+duo
+2fa
+authentication
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 64, "requestCorrelationId": "b445c60b00d96574"}
+
+Document 16:
+FAQ articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+FAQ articles
+Created by
+Ellen Burnette
+, last modified by
+Elle Smith
+on
+Jul 08, 2024
+Frequently Asked Question articles in the App State Knowledge Base
+Related Articles
+Page:
+Email Tagging
+Page:
+FileShare
+Page:
+Google FAQs & Resources
+Page:
+How to Delegate (share) the Inbox of an App State Email Account.
+Page:
+How to Install Office 365
+Page:
+How to Map a uStor Folder on macOS
+Page:
+How to Set Default Apps in Windows 10
+Page:
+How to Update my App State Password
+Page:
+I can't see my grades in AsULearn.
+Page:
+I cannot log into University Computers
+Page:
+Navigating AsULearn
+Page:
+New Phone-How to Reactivate Duo Mobile
+Page:
+Print Zone FAQs
+Page:
+Register a Computer on App State's Network with an Ethernet (Wired) Connection
+Page:
+Register a Gaming System and/or Smart TV on App State's Network
+Page:
+Retirees - Transferring Personal Gmail Data
+Page:
+Smart Classroom Tech FAQ
+Page:
+VoIP Phone FAQs
+Page:
+Wireless Connection Guide for ASU and ASU-Secure
+Page:
+Wireless FAQ
+Page:
+YoMart FAQs
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+faq
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 67, "requestCorrelationId": "5c6475529af0cca2"}
+
+Document 17:
+Google Docs Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (1)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+…
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Google Apps (Gsuite)
+Jira links
+Google Docs Articles
+Created by
+Elle Smith
+, last modified on
+Jul 08, 2024
+Overview
+Google Docs
+allows users to create, edit, and collaborate on text documents in real-time. Craft professional reports, letters, and proposals with ease. Leverage powerful features like grammar suggestions, document sharing with access controls, and seamless integration with other Google Workspace applications.
+Access
+On the web, access
+Google
+Docs
+by navigating to
+docs.google.com
+.
+(Note: If you are logged into a personal
+Google
+account in the same browser, you may be redirected to the inbox for that account. To add a second account to your browser session, view the Google help document outlining
+How to Sign in to Multiple Accounts at Once
+.
+Help
+For tailored assistance regarding
+Google
+Docs
+, contact the Help Desk at 828-262-6266.
+For general assistance, view
+Google's Docs
+Support Page
+.
+Resources
+Visit
+LinkedIn Learning
+for videos and guides on how to use Google Workspace products including their
+Google Docs Essential Training
+.
+Related Articles
+Page:
+Google Docs Articles
+Page:
+Google Docs Tips
+Page:
+Google Smart Chips and Building Blocks
+Search Knowledge Base
+Submit a Service Request
+kb-titlepage
+docs
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 57, "requestCorrelationId": "f3957bab5051b5e2"}
+
+Document 18:
+iOS Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+…
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Apple
+Jira links
+iOS Articles
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Page:
+Adding Certificates and Keys for Apple Development Account
+Page:
+Apple
+Page:
+Apple Development Program for Academic Use: Faculty Guide
+Page:
+Apple Development Program for Academic Use: Student Guide
+Page:
+Downloading Google Apps on iOS
+Page:
+How to Configure ASU Wireless on iOS Devices.
+Page:
+How to Purchase Apps in Apple School Manager
+Page:
+How to Update Software on macOS
+Page:
+How to Upgrade macOS
+Page:
+macOS Upgrade Notifications
+Page:
+Requesting App Licenses for Managed Apple Devices
+Page:
+Testing Apps In the Apple Development Account for Academic Use
+Page:
+Upgrade iOS on your Mobile Device
+Page:
+Using Apple Configurator to Update Multiple iPads at Once
+Page:
+Using Self Service on an iOS Device
+Page:
+VPN with AnyConnect on iOS
+Visit or call the
+Technology Support Center
+for assistance with your iOS Devices.
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+ios-tp
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 63, "requestCorrelationId": "31d9ffb08aefa317"}
+
+Document 19:
+Kaltura - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Kaltura
+Created by
+Michelle Melton
+, last modified by
+Elle Smith
+on
+Jul 08, 2024
+Kaltura is a cloud video platform that provides the campus with tools for recording, editing, and sharing videos. It is very closely integrated with AsULearn and can be used for sharing any course-related videos, as well as student-produced content. It also functions as a campus-wide media solution that can be accessed at
+mediaspace.appstate.edu
+. From Mediaspace, you can share videos in a public or unlisted manner.
+Page:
+AsULearn: Edit Kaltura Media Closed Captions (CC)
+Page:
+Kaltura Analytics - Troubleshooting
+Page:
+Kaltura Bulk Upload
+Page:
+Kaltura Capture / Express Capture
+Page:
+Kaltura in AsULearn
+Page:
+Kaltura Media Space
+Page:
+Kaltura: Download your media
+For more information, including resources for support, please visit the
+Kaltura MediaSpace Service Catalog page
+.
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+kaltura
+kalturamediaspace
+kb-how-to-article
+asulearn-kaltura
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 63, "requestCorrelationId": "41aaaa2848d3ed0c"}
+
+Document 20:
+Library - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Library
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jul 09, 2024
+Page:
+Belk Library Hours
+Page:
+Book A Library Study Room
+Page:
+How to Access Library Databases Off Campus
+Page:
+How to Find A Library Book Using Library of Congress Call Numbers
+Page:
+How to Find Books and Media at the library
+Page:
+How to Find Books in the Library Instructional Materials Center (IMC)
+Page:
+Print Zone FAQs
+Page:
+Schedule A Library R.A.P. Session
+For more information, including resources for support, please visit the
+Library Services Website
+.
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 55, "requestCorrelationId": "85da6750c01f4896"}
+
+Document 21:
+LinkedIn Learning Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+LinkedIn Learning Articles
+Created by
+Ellen Burnette
+, last modified by
+Elle Smith
+on
+Jul 09, 2024
+App State has acquired LinkedIn Learning to provide students, faculty, and staff options for any time, anywhere online professional development.
+What is LinkedIn Learning
+LinkedIn Learning is an online learning platform that combines Lynda.com’s unmatched library of more than 21,000+ courses taught by real-world experts, with LinkedIn data and insights drawn from 562 million member profiles and billions of interactions.
+These insights give you a unique and real-time view of how jobs, industries, organizations, and skills are evolving while helping you identify the skills that your organization needs to succeed. They also fuel course recommendations that connect learners to the most relevant, applicable learning that is easy to engage with on any device.
+Benefits
+LinkedIn Learning includes:
+thousands of courses on a variety of topics related to technology, creativity, business, and teaching
+recommended courses based on roles and skills
+customized learning paths to personalize the learning experience
+Get Started
+Activate your account
+by logging in with your App State user ID and password to get started or access through
+linkedin.com/learning
+.
+Watch
+for more on
+"How to Get Started in LinkedIn Learning"
+Integration with AsULearn
+LinkedIn Learning is also available for all AppState students, and instructors can integrate LinkedIn Learning content for students to access via AsULearn (our campus LMS).
+The following video outlines the steps to add a LinkedIn Learning resource in the LMS.
+The following video shows how to toggle grading on/off for a LinkedIn Learning resource in the LMS.
+Resources
+How to use LinkedIn Learning Guide
+LinkedIn Learning Help
+Certificates of Completion
+LinkedIn Learning Talent Blog
+LinkedIn Learning on YouTube
+Related Articles
+Page:
+Getting Started on LinkedIn Learning
+Page:
+LinkedIn Learning
+Page:
+LinkedIn Learning FAQ
+Page:
+Set Up an App State LinkedIn Learning account
+Page:
+Sign-in to LinkedIn Learning
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+linkedinlearning
+how_to
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 61, "requestCorrelationId": "71b7f426026099ae"}
+
+Document 22:
+Mac Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+…
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Apple
+Jira links
+Mac Articles
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+If you are not able to find the answer to your question, you can
+Submit a Service Request
+or call the technology help desk at 828-262-TECH(8324)
+Page:
+Apple
+Page:
+ARM Architecture - macOS Update Notification Procedure
+Page:
+Fix ASU Wifi after Password Change on macOS
+Page:
+How Jamf Connect Syncs Your Mac Password After a Password Change
+Page:
+How to Configure ASU Wireless on macOS
+Page:
+How to find System Information on macOS
+Page:
+How to Login to Jamf Connect
+Page:
+How to Map a uStor Folder on macOS
+Page:
+How to Update 3rd-Party Software on macOS
+Page:
+How to Update Software on macOS
+Page:
+How to Upgrade macOS
+Page:
+Mac Zero-Touch Setup Guide
+Page:
+macOS Upgrade Notifications
+Page:
+Nudge Notification for macOS
+Page:
+Print Duplex/Double Sided on a Mac
+Page:
+Requesting App Licenses for Managed Apple Devices
+Page:
+Reset the Keychain using Self Service on macOS
+Page:
+Save a File from Microsoft Word to a Google Shared Drive
+Page:
+Saving a Document as a PDF on Mac
+Page:
+Setting up Google Apps in Apple Mail, Contacts & Calendars on Mac OS 10.11
+Page:
+Types of Updates on macOS
+Page:
+Updating AppStore Applications in Self Service on Mac
+Page:
+Using Self Service on a Mac
+Page:
+What is FileVault
+Page:
+What is Jamf Connect
+Page:
+Windows and macOS System Updates and Patches
+Search Knowledge Base
+Submit a Service Request
+kb-titlepage
+kb
+mac-tp
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 59, "requestCorrelationId": "f8f8102ef0038f78"}
+
+Document 23:
+Microsoft - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Microsoft
+Created by
+Ellen Burnette
+, last modified by
+Elle Smith
+on
+Jul 02, 2024
+Microsoft Office is a family of client software, server software, and services developed by Microsoft.
+Visit Microsoft Support for:
+Learning the Basics
+FAQ's on 365
+Training and Webinars
+Community discussion boards
+Resources
+Visit
+LinkedIn Learning
+for videos and guides on how to use Microsoft Products including
+Learning Microsoft 365
+Word Essential Training (Microsoft 365
+)
+Excel Essential Training (Microsoft 365)
+PowerPoint Essential Training (Microsoft 365)
+Related Articles
+Page:
+How to Install Office 365
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+microsoft-office
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 65, "requestCorrelationId": "c9b90b31be6cc806"}
+
+Document 24:
+Other - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Other
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+This is a list of articles that exist in a single state and have no related articles
+Related Articles
+Page:
+Academic Affairs Computer Refresh
+Page:
+Aportfolio Tutorial
+Page:
+BB Dougherty Digital Directory Operation
+Page:
+Digital Signage and Scala Technology Troubleshooting Guide
+Page:
+FileShare
+Page:
+How to Print an Unofficial Transcript
+Page:
+How to Request a Device Management Policy Exclusion
+Page:
+Migrate Classic Google Sites to New Google Sites to Save Your Content
+Page:
+Security and Google Add-Ons for University Employees
+Page:
+Submitting an IT Acquisition request for Software & Services
+Page:
+Transferring files from one computer to another
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 66, "requestCorrelationId": "7889fdf7c2581e4c"}
+
+Document 25:
+PaperCut Print Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (16)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+…
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Print and Copy
+Jira links
+PaperCut Print Articles
+Created by
+Ellen Burnette
+, last modified by
+Elle Smith
+on
+Jul 12, 2024
+PaperCut Printer Management Software
+How Does it Work
+Employees print, make copies, and scan using an AppCard swipe, Banner ID, or App State username and password to authenticate (identify themselves) at the printer.
+Downloading PaperCut
+On a Windows Computer
+Open Software Center on your Windows computer.
+Click on the PaperCut icon, or search for
+PaperCut
+in the search bar.
+Click
+Install
+.
+After installation, PaperCut will be installed under
+Printers & Scanners
+.
+On a Mac
+Open Self Service on your computer.
+Click
+Log In
+and sign in with your App State credentials.
+Find PaperCut under
+ASU-Print and Scan
+and click
+Install
+to download.
+After installation, you can see PaperCut installed in system settings under
+Printers & Scanners
+.
+Logging into the Printer
+Three Ways to Log In
+1. AppCard Authentication
+Locate the card swipe on the printer (typically on the front of the printer, near the control panel). Swipe your AppCard to authenticate.
+2. Banner ID Authentication
+On the printer touchscreen, press the
+ID number
+button to log in by using your Banner ID.
+Enter your Banner ID, using the keyboard that appears on the screen or using the physical keyboard that you can pull out from underneath the screen, and press
+Log in
+.
+3. Username and Password Authentication
+On the printer touchscreen, press the
+Username and password
+button to log in by using your App State credentials. You can use the keyboard that appears on the screen or the physical keyboard that you can pull out from underneath the screen.
+Enter your App State username (without the @appstate.edu) and password, and press
+Log in
+.
+Related Articles
+Page:
+PaperCut
+Page:
+PaperCut Copy
+Page:
+PaperCut Fax
+Page:
+PaperCut Print
+Page:
+PaperCut Scan
+Search Knowledge Base
+Submit a Service Request
+kb
+print_management
+print_software
+print-services
+kb-titlepage
+papercut
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 98, "requestCorrelationId": "959cf06afbbdc6aa"}
+
+Document 26:
+Print and Copy - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Print and Copy
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Page:
+PaperCut Mobility Print
+Page:
+PaperCut Print Articles
+Page:
+PaperCut Print from a Lab Computer
+Page:
+PaperCut Print via Email
+Page:
+Sharp Copier Articles
+Page:
+Student PaperCut Print Articles
+Search Knowledge Base
+Submit a Service Request
+kb
+common-topic
+kb-titlepage
+pharos
+sharp
+printers
+printing
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 64, "requestCorrelationId": "65388f91d5be3caf"}
+
+Document 27:
+REDCap Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+REDCap Articles
+Created by
+Julie Taubman
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+REDCap is a web-based application that should be used primarily for Research and Quality Improvement studies and is available to current faculty, students, and staff.
+Page:
+How to Get Started with REDCap
+Page:
+REDCap
+Page:
+REDCap Twilio integration
+Visit or call the
+Technology Support Center
+for assistance with your Android Devices.
+Search Knowledge Base
+Submit a Service Request
+kb-titlepage
+kb
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 56, "requestCorrelationId": "ac9e962bd33f8495"}
+
+Document 28:
+SAS Software - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+SAS Software
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Aug 01, 2024
+SAS is a system of software products that assist programmers in a variety of areas including (but not limited to) data management and warehousing, statistical analysis, business planning, operations research, applications development, and remote computing.
+Page:
+SAS
+Page:
+SAS installation Instructions
+For more information, including resources for support please visit the
+SAS Software Catalog page
+.
+Search Knowledge Base
+Submit a Service Request
+kb-titlepage
+kb
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 57, "requestCorrelationId": "e6fc5d8f6bef736c"}
+
+Document 29:
+Security - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Security
+Created by
+Elle Smith
+, last modified on
+Jun 05, 2024
+Related Articles
+Page:
+Common Security Threats
+Page:
+How to Update my App State Password
+Page:
+Mobile Device Security Guidelines
+Page:
+Security and Google Apps
+Page:
+Security Awareness Tools and Resources
+Page:
+Security Awareness Training
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+security
+security-awareness
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 57, "requestCorrelationId": "ca485902247d32d6"}
+
+Document 30:
+Student PaperCut Print Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+…
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Print and Copy
+Jira links
+Student PaperCut Print Articles
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+There are four ways that students can print:
+Mobility Print
+Print from a Lab Computer
+Print via Link
+Print via Email
+NOTE:
+Only print via email has file limitations (a PDF or image file only).
+All other forms of printing listed support the following file formats:
+Microsoft Office® documents
+Microsoft Outlook® files
+PDF files
+Images (JPG, GIF, PNG, BMP)
+Text files (CSV, RTF & TXT)
+Open Office documents
+Google Docs & Sheets
+3 Ways to Authenticate at the Printer
+Print, make copies, and scan after you authenticate (identify yourself) at the printer in one of three ways:
+AppCard swipe
+Banner ID entry.
+App State username and password entry.
+PaperCut Pricing
+Letter (8 1/2 x 11):
+Black and White - $.10
+Duplex (two-sided) - $.10
+Color  - $.50
+Any other sizes (ex: 11x14 or 11x17) - $2.00
+Helpful Printing Tips
+Make sure you are printing the correct document.
+Be sure you print to the correct print queue:
+ASU-STUDENT-PRINT-BW
+for black & white printing
+ASU-STUDENT-PRINT-COLOR
+for color printing
+Your card is debited as soon as you release the job to the printer. Once you have released the wrong document, there is no way to stop it from printing and debiting your card.
+If you submit a document for printing and decide later that you no longer wish to print it, simply leave the document in the print queue. Any document left in the print queue longer than one hour will be deleted automatically.
+How do I Pay
+Print cards in the library will no longer be issued.
+Money will need to be applied to your App Card in order to complete a print release.
+To make a deposit (minimum $20) or check the balance on your App Card, visit
+appcard.appstate.edu/appcard-online#deposits
+.
+At the University Campus store, you can add money in any amount.
+Related Articles
+Page:
+PaperCut Mobility Print
+Page:
+PaperCut Print from a Lab Computer
+Page:
+PaperCut Print via Email
+Page:
+PaperCut print via Link
+Page:
+Saving a Document as a PDF
+Search Knowledge Base
+Submit a Service Request
+kb
+print-services
+kb-titlepage
+student-printing
+papercut-student
+printing
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 58, "requestCorrelationId": "763934f792f458a3"}
+
+Document 31:
+Tech Support - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Tech Support
+Created by
+Ellen Burnette
+, last modified by
+Elle Smith
+on
+Jul 24, 2024
+To seek Tech Support at App State, please consider the following options:
+Submit a Ticket
+Call the Help Desk at
+828-262-6266
+Walk in the
+Tech Support Center
+in Anne Belk Hall, Room 140
+Visit our website
+support.appstate.edu
+Related Articles
+Page:
+How to Enter a Support Ticket
+Page:
+Technology Support Center
+Search Knowledge Base
+Submit a Service Request
+kb
+technologysupportcenter
+technology-support
+tech-support
+help-desk
+helpdesk
+kb-titlepage
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 68, "requestCorrelationId": "8ff35ceda054fe0c"}
+
+Document 32:
+uDesk Virtual Desktop Articles - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (4)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+…
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+VPN and Remote Connections to Campus Network
+Jira links
+uDesk Virtual Desktop Articles
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jul 17, 2024
+uDesk is Appalachian's virtual desktop infrastructure (VDI) solution. You can access a custom-built Windows operating environment from any device with an active internet connection. uDesk allows faculty and staff to work from home just as if they were in the office, and allows students to access university-licensed software found in campus computer labs. You can connect via a web browser or with a desktop app.
+How to Connect with the web client:
+In a web browser, go to
+udesk.appstate.edu
+and select
+login to uDesk
+.
+Enter your App State email address and password in the Microsft sign-in window.
+Select the appropriate virtual computer. Most students will use the
+Computer Lab
+option, while some students may see additional options related to their major.
+Allow the default settings on the Access local resources window (note that the clipboard only works for copying and pasting text, not files.
+Enter your password again, and you'll be connected to a virtual Windows 11 comptuer inside your web browser window.
+Connect via the Microsoft Remote Desktop app:
+Download and install the right app for your operating system
+Windows 64-bit
+Mac
+(OS 12 or later)
+Windows Instructions
+Open Microsoft Remote Desktop.
+Click the
+Subscribe
+button.
+Enter your App State email and password at the Windows login screen.
+Select the appropriate virtual computer. Most students will use the
+Computer Lab
+option, while some students may see additional options related to their major.
+Mac Instructions
+Open Microsoft Remote Desktop.
+Select the
+Workspace
+tab, then
+Add Workspace
+.
+Enter the following URL:
+https://rdweb.wvd.microsoft.com
+and click
+Add
+.
+Enter your App State email address and password in the Microsoft sign-in window.
+Select the appropriate virtual computer. Most students will use the
+Computer Lab
+option, while some students may see additional options related to their major.
+Page:
+Access Online Windows Computer Lab with GPU from a Web Browser
+Page:
+Access Online Windows Computer Labs from a Web Browser
+Page:
+How to connect to Online Mac Computer Labs
+Page:
+uDesk Virtual Desktop
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+remote
+udesk
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 64, "requestCorrelationId": "74c8a741019cc848"}
+
+Document 33:
+University Accounts - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+University Accounts
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Page:
+DMCA Article
+Page:
+How to Update my App State Password
+Page:
+I cannot log into University Computers
+Page:
+Tips for Creating a Secure Password
+For more information, please visit the
+Account Assignments Service Catalog page.
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+common-topic
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 52, "requestCorrelationId": "88d6a71ab28f8578"}
+
+Document 34:
+VoIP Phones - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+VoIP Phones
+Created by
+Ellen Burnette
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Voice over IP, VoIP, is App State's phone service.
+Partnering with North Carolina State University, App State implemented an on-premise Voice over IP solution based on Cisco Systems Unified Communications product offerings.
+The Unified Communications suite allows us to converge voice, video, and messaging protocols into a single network-centric application, accessible from virtually any device, anywhere you have Internet connectivity.
+Related Links
+CISCO Call Manager
+MyPhone
+Voicemail
+Related Articles
+Page:
+Campus Dialing
+Page:
+VoIP
+Page:
+VoIP Phone FAQs
+Page:
+VoIP Quick Start Guide
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+voip
+phone
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 55, "requestCorrelationId": "e133d1057491d391"}
+
+Document 35:
+VPN and Remote Connections to Campus Network - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+VPN and Remote Connections to Campus Network
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jul 17, 2024
+List of services that provide a way to connect to campus resources.
+Related Articles
+Page:
+AnyConnect VPN Articles
+Page:
+Cannot log into Computer after password change.
+Page:
+Connect to ASU network using AnyConnect VPN
+Page:
+uDesk Virtual Desktop Articles
+Page:
+Work from Home (Telework) Resources
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+remoteservices
+remote
+vpn
+ivanti
+pulse
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 75, "requestCorrelationId": "d4208aae97733f8a"}
+
+Document 36:
+Watermark Faculty Success app - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Watermark Faculty Success app
+Created by
+Paula Ransom
+, last modified by
+Rob Robertson
+on
+Jun 13, 2023
+Watermark Faculty Success (formerly Digital Measures) is an online tool available to Appalachian State faculty within the College of Business and College of Fine and Applied Arts. It allows faculty to record their professional activities including teaching, service, research, and publications. Watermark Faculty Success also serves several reporting needs, including the production of vitas, departmental annual reports, and various accreditation standards.
+Questions regarding Watermark Faculty Success can be directed to the University Administrator:
+Rob Robertson
+Digital Measures Administrator
+136 Greenway Annex
+828-262-8997
+robertsonrw@appstate.edu
+Related Articles
+Page:
+Unable to log into Watermark Faculty Success
+Page:
+Log into Watermark Faculty Success
+Page:
+Classes missing in Watermark Faculty Success
+Page:
+Set Up a Watermark Faculty Success Profile
+Search Knowledge Base
+Submit a Service Request
+We value your feedback! Click
+HERE
+to suggest updates to an existing article, request a new article, or submit an idea.
+kb
+kb-titlepage
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 58, "requestCorrelationId": "aa2a5ab1714b2880"}
+
+Document 37:
+Windows - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Windows
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+Page:
+How to Configure ASU Secure Wireless Network on Windows Machine without an Appstate Image
+Page:
+How to Manually Activate Windows License
+Page:
+How to Map a Drive/uStor folder on Windows Computers
+Page:
+Retirees - Transferring Personal Gmail Data
+Page:
+Save a File from Microsoft Word to a Google Shared Drive
+Page:
+Windows and macOS System Updates and Patches
+Search Knowledge Base
+Submit a Service Request
+kb-titlepage
+kb
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 55, "requestCorrelationId": "eee6d626142b4f16"}
+
+Document 38:
+Workshop Scheduler - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Workshop Scheduler
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+The Center for Excellence in Teaching and Learning for Student Success development team created the Workshop Scheduler online application to administer scheduling, promoting, and registering Appalachian users for group workshops:
+http://workshops.appstate.edu
+The Administrator Manual (
+PDF
+), which includes steps to create a community for facilitating workshops, instructions for using the application, and information about how to receive technical support for using the Workshop Scheduler, is being ported into the Appalachian Technology Knowledge Base and at the same time content is being updated for Version 2 which is in development.
+Use the Administrator Manual for complete documentation for the current version. Version 2 was expected to release mid-Fall 2019.
+Page:
+1. What is the Workshop Scheduler?
+Page:
+2. Creating a Workshop Department (formerly known as "Learning Community")
+Page:
+3. Terminology in the Workshop Scheduler Documentation
+Page:
+4. WORKSHOP ADMINISTRATION MENU
+Page:
+4.a. My Workshops
+Page:
+4.b. My Profile
+Page:
+4.c. Workshop Listing
+Page:
+4.d. Communities
+Page:
+4.e. Workshop Types
+Page:
+4.f. Participants
+Page:
+5. Workshop Roster Screen
+Page:
+5.a. Marking Workshop Attendance
+Page:
+6. Add or Edit a Workshop
+Page:
+7. Add or Edit a Workshop Section
+Page:
+8. Publicizing Your Workshop
+Page:
+9. User Registration
+Page:
+Creating Course Types
+Page:
+Technical Support and Admin Account Requests
+Page:
+Workshop Scheduler Dashboard
+Search Knowledge Base
+Submit a Service Request
+kb
+kb-titlepage
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 61, "requestCorrelationId": "12f9245bad5abc9d"}
+
+Document 39:
+YoMart - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+YoMart
+Created by
+Paula Ransom
+, last modified by
+Elle Smith
+on
+Jun 05, 2024
+YoMart is our electronic procurement system that manages purchases of goods and services from request to payment.
+All purchases and contracts are created and processed through the system.
+Logging In
+Visit the
+YoMart Home/Shop
+. Access is Single Sign On, use your App State username and password to log in on your computer.
+Requesting or Terminating Access
+A Supervisor or Business Officer would need to submit a
+Request Banner Account Option form
+.
+If requesting access, select both YoMart and Banner Finance if the user will be shopping and submitting requisitions for approval.
+Workshops and Training
+Training sessions are now available on
+Workshops
+.
+Useful Articles
+Page:
+Creating Multiple Line Items
+Page:
+How do I link a Contract in the Direct Pay Form?
+Page:
+Shopping Cart Actions
+Page:
+Submitting a Direct Payment Form
+Page:
+Submitting a Foreign Payment Request Form
+Search Knowledge Base
+Submit a Service Request
+kb
+common-topic
+kb-titlepage
+yomart
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 74, "requestCorrelationId": "8c787be748d20c46"}
+
+Document 40:
+Zoom - Appalachian Technology Knowledge Base - Confluence
+Log in
+Linked Applications
+Loading…
+Confluence
+Spaces
+Hit enter to search
+Help
+Online Help
+Keyboard Shortcuts
+Feed Builder
+What’s new
+Available Gadgets
+About Confluence
+Log in
+Appalachian Technology Knowledge Base
+Pages
+Page tree
+Browse pages
+Configure
+Space tools
+A
+t
+tachments (0)
+Page History
+Page Information
+Resolved comments
+View in Hierarchy
+View Source
+Export to PDF
+Export to Word
+Pages
+Appalachian Technology Knowledge Base
+Knowledge Base Articles
+Jira links
+Zoom
+Created by
+Ellen Burnette
+, last modified by
+Elle Smith
+on
+Jul 02, 2024
+Zoom is a video platform that can be used for a variety of communication needs, including meetings, chat, phone, webinars, and online events.
+Resources
+Sharpen your Zoom skills with these in-depth video tutorials on
+LinkedIn Learning
+:
+Zoom Essential Training
+Zoom Quick Tips
+Running a webinar on Zoom
+Related Articles
+Page:
+Appalachian Zoom Telehealth Portal
+Page:
+DTEN Zoom Conference Rooms
+Page:
+Google Calendar Appointment Slots
+Page:
+How to Schedule Zoom Meetings for Other People
+Page:
+Troubleshooting Common Issues
+Page:
+Zoom - Student Information
+Page:
+Zoom Overview
+Page:
+Zoom Overview for Faculty
+Page:
+Zoom Telehealth Admin Login
+Page:
+Zoom Universal Meeting and Profile Settings
+Page:
+Zoom Web Conferencing: Classes, Group Work, Collaboration
+Page:
+Zoom: Add a Meeting in AsULearn
+Page:
+Zoom: An Instructional Guide
+Page:
+Zoom: Attendance Reports
+Page:
+Zoom: Breakout Rooms - Troubleshooting
+Page:
+Zoom: Desktop Client
+Page:
+Zoom: Securing Your Virtual Classroom
+Page:
+Zoom: Using for Lecture Capture
+Search Knowledge Base
+Submit a Service Request
+kb
+zoom
+kb-titlepage
+zoom-web-conferencing
+Overview
+Content Tools
+Powered by
+Atlassian Confluence
+8.5.12
+(conf1: 693717fc)
+Printed by Atlassian Confluence 8.5.12
+Report a bug
+Atlassian News
+Atlassian
+{"serverDuration": 68, "requestCorrelationId": "adb555985f03a943"}
+
